@@ -13,4 +13,4 @@ Api para controle de venda/estoque de produtos e cadastro/prestação de serviç
 - Agendamento de serviços
 
 ### Para o futuro
-- 
+- Utilização de web-socket para atualização de notificações e estoque.
