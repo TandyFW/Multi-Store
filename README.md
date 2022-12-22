@@ -4,6 +4,7 @@ Api para controle de venda/estoque de produtos e cadastro/prestação de serviç
 ### Tecnologia
 - NodeJs com Typescript
 - MongoDB
+- Pattern MSC
 
 ### Objetivo
 - Atender comércios com CRUD de produtos/mercadorias
