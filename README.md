@@ -9,6 +9,7 @@ Api para controle de venda/estoque de produtos e cadastro/prestação de serviç
 - MSC
 - Testes unitários
 - Eslint
+- Injeção de dependência
 
 ### Objetivo
 - Atender comércios com CRUD de produtos/mercadorias
